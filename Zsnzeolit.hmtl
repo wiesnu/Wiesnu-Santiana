@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Akademi Mikroba Tanah Sehat</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 20px;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      padding: 40px 0;
+    }
+    h1 {
+      font-size: 2em;
+      margin: 0;
+    }
+    .tagline {
+      font-style: italic;
+      color: #777;
+    }
+    section {
+      max-width: 600px;
+      margin: auto;
+      padding: 20px;
+      background: #ffffff;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      font-size: 0.8em;
+      color: #aaa;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Akademi Mikroba Tanah Sehat</h1>
+    <p class="tagline">Leutik tapi ngagerakkeun 🌱</p>
+  </header>
+  <section>
+    <h2>Tentang Kami</h2>
+    <p>Akademi ini hadir untuk memberdayakan petani lewat edukasi mikroba tanah dan praktik regeneratif. Kami percaya tanah sehat adalah kunci pertanian yang berkelanjutan dan berdaulat.</p>
+    
+    <h2>Program Unggulan</h2>
+    <ul>
+      <li>ZSN-BLOOM: Pendorong bunga & buah</li>
+      <li>ZSN-RHIZA: Aktivator akar & tanah</li>
+      <li>Workshop Mikroba & Zeolit</li>
+    </ul>
+
+    <h2>Hubungi Kami</h2>
+    <p>📞 WA: 08xx-xxxx-xxxx<br>🌐 IG: @tanahsehat.id</p>
+  </section>
+  <footer>
+    © 2025 Akademi Tanah Sehat | Petani IT by Sore 😄
+  </footer>
+</body>
+</html>
