@@ -1,0 +1,51 @@
+
+
+```html
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ZSN09 – Akademi Tanah Sehat</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f9f5;
+      padding: 2rem;
+      color: #2f4f4f;
+}
+    h1 {
+      color: #228B22;
+}
+.container {
+      max-width: 700px;
+      margin: auto;
+}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🌿 ZSN09 – Akademi Tanah Sehat</h1>
+    <p>Selamat datang petani muda! Di sini kita belajar bareng tentang pembenah tanah cerdas dan cara menciptakan lahan sehat berkelanjutan.</p>
+
+    <h2>📘 Modul Edukasi</h2>
+    <ul>
+      <li>Pengenalan ZSN09</li>
+      <li>Cara kerja zeolit pada tanah</li>
+      <li>Langkah penggunaan di lahan nyata</li>
+      <li>Testimoni & cerita dari petani muda</li>
+    </ul>
+
+    <h2>🤝 Tentang Kami</h2>
+    <p>Akademi Tanah Sehat adalah gerakan edukasi dari ZSN09 yang bertujuan membentuk generasi petani muda berpengetahuan dan berdaya.</p>
+
+    <footer>
+      <hr />
+      <p style="font-size: 0.9em;">© 2025 ZSN09 & Akademi Tanah Sehat</p>
+    </footer>
+  </div>
+</body>
+</html>
+```
+
+--
